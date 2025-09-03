@@ -1,11 +1,11 @@
 
 {
-"bot-name": "MALVIN-XD",
+"bot-name": "MINETWIX-XD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
   "logo": "https://files.catbox.moe/juxfce.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://malvinxd-pairsession.onrender.com/",
-    "owner-verification":"malvink003@gmail.com",
+    "owner-verification":"m96976231@gmail.com",
   
     "env": {
       "SESSION_ID": {
@@ -16,9 +16,9 @@
       },
       
     "OWNER_NUMBER": {
-      "description": "Enter owner number",
+      "description": "8801606741910",
       "required": true,
-      "value": "263714757857"
+      "value": "8801606741910"
       
        },
       "TIMEZONE": {
