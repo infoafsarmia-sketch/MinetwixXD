@@ -1,8 +1,8 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
+  "name": "MINETWIX-XD",
   "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
-  "keywords": ["MALVIN XD"],
+  "keywords": ["MINETWIX-XD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "MINETWIX-XD" 
         
     },
      "PREFIX": {
@@ -27,20 +27,20 @@
     },
       "MODE": {
         "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
-        "value":"private",
+        "value":"public",
         "required": true  
         
    },
      "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
+      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ MINETWIX-XD*",
       "required": true
       
    }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "8801606741910"
       "required": true
       
    },
